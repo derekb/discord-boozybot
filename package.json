@@ -44,6 +44,10 @@
       "limit": "10 KB"
     }
   ],
+  "resolutions": {
+    "**/@typescript-eslint/eslint-plugin": "^4.1.1",
+    "**/@typescript-eslint/parser": "^4.1.1"
+  },
   "devDependencies": {
     "@size-limit/preset-small-lib": "^7.0.5",
     "husky": "^7.0.4",
